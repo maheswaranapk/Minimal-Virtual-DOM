@@ -1,0 +1,22 @@
+{
+  "name": "Minimal Virtual DOM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "ws"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maheswaranapk/Minimal-Virtual-DOM.git"
+  },
+  "author": "Mahes Sivakumar (@maheswaranapk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maheswaranapk/Minimal-Virtual-DOM/issues"
+  },
+  "homepage": "https://github.com/maheswaranapk/Minimal-Virtual-DOM#readme",
+  "devDependencies": {
+    "local-web-server": "^3.0.7"
+  }
+}
